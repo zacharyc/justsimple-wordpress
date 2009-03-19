@@ -237,6 +237,14 @@ body
 	margin:1em 2em;
 	padding:0;
 }
+#main .post-content dt
+{
+	font-weight:bold;
+}
+#main .post-content dd
+{
+	padding: 5px 0 5px 5px;
+}
 #main p.post-info 
 {
 	clear:both;
