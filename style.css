@@ -243,7 +243,8 @@ body
 }
 #main .post-content dd
 {
-	padding: 5px 0 5px 5px;
+	padding-left: 15px;
+	line-height:1.6em;
 }
 #main p.post-info 
 {
