@@ -429,3 +429,22 @@ img.alignleft {
 .alignleft {
 	float: left
 }
+
+table {
+	width:100%;
+	border:1px solid gray;
+	margin-bottom:5px;
+}
+
+td {
+	border:1px solid gray;
+	padding-left: 2px;
+}
+
+th {
+	border:1px solid gray;
+}
+
+tr {
+	border:1px solid gray;
+}
