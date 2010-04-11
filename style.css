@@ -448,3 +448,28 @@ th {
 tr {
 	border:1px solid gray;
 }
+
+/* Stuff for source code with hilite.me */
+
+table.code {
+	border:0;
+	padding:0;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+table.code td {
+	border:0 !important;
+}
+
+table.code tr {
+	border:0 !important;
+}
+
+table.code th {
+	border:0;
+}
+
+pre {
+	font-size:1.3em;
+}
